@@ -6,6 +6,7 @@ A real-time trade simulator that leverages WebSocket market data to estimate tra
 
 This project implements a high-performance trade simulator that connects to WebSocket endpoints streaming L2 orderbook data from cryptocurrency exchanges. The simulator processes this data in real-time to estimate various trading costs and market impact metrics using financial models.
 
+```
 trade-simulator/
 ├── README.md
 ├── requirements.txt
@@ -36,6 +37,7 @@ trade-simulator/
 └── docs/
     ├── models.md
     └── performance.md
+```
 
 ## Features
 
